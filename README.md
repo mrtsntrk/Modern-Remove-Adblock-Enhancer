@@ -1,4 +1,4 @@
-# Modern Adblock Enhancer
+# Modern Remove Adblock Enhancer
 
 Modern Adblock Enhancer is a powerful and efficient Tampermonkey script designed to enhance your YouTube experience by removing ads, intrusive popups, and improving usability.
 
