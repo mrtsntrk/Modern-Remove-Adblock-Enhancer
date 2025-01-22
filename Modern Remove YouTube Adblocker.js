@@ -4,7 +4,7 @@
 // @version      6.2
 // @description  Modern remove adblocker for YouTube with popup and ad removal.
 // @author       Updated by mrtsntrk
-// @match        https://www.youtube.com/*
+// @match        https://www.youtube.com/@mrtsntrk
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @updateURL    https://github.com/mrtsntrk/Modern-Remove-Adblock-Enhancer/raw/main/ModernAdblockEnhancer.user.js
 // @downloadURL  https://github.com/mrtsntrk/Modern-Remove-Adblock-Enhancer/raw/main/ModernAdblockEnhancer.user.js
